@@ -19,8 +19,8 @@ def initialize_driver(request):
     driver.close()
 
 # 1st Step: Declare Variables For Setting Up LambdaTest
-user_name = "atipjaitham"
-access_token = "8hEEGsAkwBki5bpEzFKV01GsswQF3FLljeawu63St4Sf35EQfM"
+user_name = "xxxxxxxxxxxx"
+access_token = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 remote_url = f"https://{user_name}:{access_token}@hub.lambdatest.com/wd/hub"
 
 # 2nd Step: Define The Desired Capabilities (3 Caps)
